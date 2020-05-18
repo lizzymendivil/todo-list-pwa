@@ -8,13 +8,23 @@ export function generateToDos(): ToDo[] {
   return [
     {
       id: 1,
-      task: 'Watch Ozark Season 2',
+      task: 'Research more about PWA',
       complete: false
     },
     {
       id: 2,
-      task: 'Use NgRx in my to-do app',
+      task: 'Attend Angular Performance Week 2020 event',
       complete: true
-    }
+    },
+    {
+      id: 3,
+      task: 'Cook my dinner after the event',
+      complete: false
+    },
+    {
+      id: 4,
+      task: 'Visit *La vida de Li* youtube channel',
+      complete: false
+    },
   ];
 }
