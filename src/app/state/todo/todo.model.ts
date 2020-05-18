@@ -13,7 +13,7 @@ export function generateToDos(): ToDo[] {
     },
     {
       id: 2,
-      task: 'Attend Angular Performance Week 2020 event',
+      task: 'Attend NG PerformanceWeek event',
       complete: true
     },
     {
